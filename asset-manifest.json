@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rotating-triangle/static/css/main.f855e6bc.css",
+    "main.js": "/rotating-triangle/static/js/main.86cc7651.js",
+    "static/js/453.30df5694.chunk.js": "/rotating-triangle/static/js/453.30df5694.chunk.js",
+    "index.html": "/rotating-triangle/index.html",
+    "main.f855e6bc.css.map": "/rotating-triangle/static/css/main.f855e6bc.css.map",
+    "main.86cc7651.js.map": "/rotating-triangle/static/js/main.86cc7651.js.map",
+    "453.30df5694.chunk.js.map": "/rotating-triangle/static/js/453.30df5694.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.86cc7651.js"
+  ]
+}
